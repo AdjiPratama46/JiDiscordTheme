@@ -6,7 +6,7 @@
 * @invite FdZhbjY
 * @source https://github.com/puckzxz/NotAnotherAnimeTheme
 */
-@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/css/dcsl.css);
+@import url(https://raw.githack.com/AdjiPratama46/JiDiscordTheme/master/css/dcsl.css);
 
 
 /* Import any custom fonts here */
@@ -26,13 +26,13 @@
     Change the theme background
     Default: https://i.imgur.com/j1Z6HVc.jpg
     */
-    --background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
+    --background-image: url(https://i.imgur.com/5W8Nj7u.jpg);
 
     /*
     Change your friends icon image
     Default: https://i.imgur.com/63g6Em8.jpg
     */
-    --friends-icon: url(https://i.imgur.com/63g6Em8.jpg);
+    --friends-icon: url(https://i.imgur.com/9ndyuDQ.jpg);
 
     /*
     Change your friends icon iamge position
